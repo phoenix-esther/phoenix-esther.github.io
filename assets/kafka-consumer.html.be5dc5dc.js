@@ -1,1 +1,0 @@
-import{_ as a,o as r,c as o,b as e,e as s}from"./app.02d01547.js";const c={},t=e("h1",{id:"kafka-consumer",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#kafka-consumer","aria-hidden":"true"},"#"),s(" Kafka Consumer")],-1),n=[t];function _(d,f){return r(),o("div",null,n)}var k=a(c,[["render",_],["__file","kafka-consumer.html.vue"]]);export{k as default};

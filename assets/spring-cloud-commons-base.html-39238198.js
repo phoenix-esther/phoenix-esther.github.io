@@ -1,0 +1,1 @@
+import{_ as s,V as o,W as a,Y as e,Z as t}from"./framework-4ec38622.js";const c={},n=e("h1",{id:"基础组件总结",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#基础组件总结","aria-hidden":"true"},"#"),t(" 基础组件总结")],-1),r=[n];function _(d,i){return o(),a("div",null,r)}const h=s(c,[["render",_],["__file","spring-cloud-commons-base.html.vue"]]);export{h as default};

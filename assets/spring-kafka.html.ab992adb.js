@@ -1,1 +1,0 @@
-import{_ as a,o as r,c as s,b as e,e as t}from"./app.02d01547.js";const n={},c=e("h1",{id:"spring-kafka",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#spring-kafka","aria-hidden":"true"},"#"),t(" Spring Kafka")],-1),o=[c];function i(_,d){return r(),s("div",null,o)}var h=a(n,[["render",i],["__file","spring-kafka.html.vue"]]);export{h as default};
