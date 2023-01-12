@@ -1,0 +1,1 @@
+import{_ as a,V as t,W as r,X as e,Y as s}from"./framework-5dde3bca.js";const c={},o=e("h1",{id:"数据库",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#数据库","aria-hidden":"true"},"#"),s(" 数据库")],-1),n=[o];function _(d,i){return t(),r("div",null,n)}const l=a(c,[["render",_],["__file","database-overview.html.vue"]]);export{l as default};

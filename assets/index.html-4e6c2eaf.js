@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-85d7f668","path":"/tag/spring-cloud/","title":"spring cloud 标签","lang":"zh-CN","frontmatter":{"title":"spring cloud 标签","blog":{"type":"category","name":"spring cloud","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{t as data};
