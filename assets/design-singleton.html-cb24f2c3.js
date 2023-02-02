@@ -1,1 +1,0 @@
-import{_ as t,V as n,W as s,X as e,Y as a}from"./framework-5dde3bca.js";const o={},c=e("h1",{id:"单例模式",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#单例模式","aria-hidden":"true"},"#"),a(" 单例模式")],-1),r=[c];function _(d,i){return n(),s("div",null,r)}const h=t(o,[["render",_],["__file","design-singleton.html.vue"]]);export{h as default};
