@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-db04374e","path":"/quality/operating-system/1.hardware-structure/","title":"1.hardware Structure","lang":"zh-CN","frontmatter":{"title":"1.hardware Structure","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

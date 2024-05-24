@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cc9a8db8","path":"/quality/operating-system/3.memory-manage/","title":"3.memory Manage","lang":"zh-CN","frontmatter":{"title":"3.memory Manage","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

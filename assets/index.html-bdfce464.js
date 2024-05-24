@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-dd441dcc","path":"/java/java-collection/","title":"Java Collection","lang":"zh-CN","frontmatter":{"title":"Java Collection","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

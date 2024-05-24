@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-94b907a0","path":"/middleware/HikariCP/","title":"Hikari C P","lang":"zh-CN","frontmatter":{"title":"Hikari C P","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

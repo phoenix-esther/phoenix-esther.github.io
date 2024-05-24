@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3088856b","path":"/quality/operating-system/","title":"Operating System","lang":"zh-CN","frontmatter":{"title":"Operating System","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

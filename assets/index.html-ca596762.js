@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-400bf7e6","path":"/spring-cloud/spring-cloud-seate/","title":"Spring Cloud Seate","lang":"zh-CN","frontmatter":{"title":"Spring Cloud Seate","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

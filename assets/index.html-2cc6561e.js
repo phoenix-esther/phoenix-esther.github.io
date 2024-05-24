@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-68c07ae6","path":"/quality/network/1_base/","title":"1 Base","lang":"zh-CN","frontmatter":{"title":"1 Base","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

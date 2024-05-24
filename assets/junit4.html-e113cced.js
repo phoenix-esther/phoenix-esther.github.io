@@ -1,1 +1,0 @@
-import{_ as t,V as n,W as a,X as e,Y as c}from"./framework-5dde3bca.js";const r={},s=e("h1",{id:"junit-4",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#junit-4","aria-hidden":"true"},"#"),c(" Junit 4")],-1),o=[s];function i(_,d){return n(),a("div",null,o)}const h=t(r,[["render",i],["__file","junit4.html.vue"]]);export{h as default};

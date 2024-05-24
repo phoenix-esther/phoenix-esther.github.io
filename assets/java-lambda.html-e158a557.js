@@ -1,1 +1,0 @@
-import{_ as e,V as t,W as c,X as a,Y as d}from"./framework-5dde3bca.js";const r={},s=a("h1",{id:"java-8-lamdba表达式",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#java-8-lamdba表达式","aria-hidden":"true"},"#"),d(" Java 8 Lamdba表达式")],-1),o=[s];function n(_,l){return t(),c("div",null,o)}const m=e(r,[["render",n],["__file","java-lambda.html.vue"]]);export{m as default};

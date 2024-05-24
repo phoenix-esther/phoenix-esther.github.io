@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a32329e6","path":"/middleware/kafka/","title":"Kafka","lang":"zh-CN","frontmatter":{"title":"Kafka","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

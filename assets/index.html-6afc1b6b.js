@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7bc25a14","path":"/quality/data-structure/","title":"Data Structure","lang":"zh-CN","frontmatter":{"title":"Data Structure","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{t as data};

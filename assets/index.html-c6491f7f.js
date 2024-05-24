@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5c27805a","path":"/quality/network/4_ip/","title":"4 Ip","lang":"zh-CN","frontmatter":{"title":"4 Ip","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

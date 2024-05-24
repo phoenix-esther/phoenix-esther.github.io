@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3e667b18","path":"/spring-cloud/spring-cloud-sentinel/","title":"Spring Cloud Sentinel","lang":"zh-CN","frontmatter":{"title":"Spring Cloud Sentinel","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

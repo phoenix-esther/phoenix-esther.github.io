@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7ab1f484","path":"/spring/spring-bean-post-processor/","title":"Spring Bean Post Processor","lang":"zh-CN","frontmatter":{"title":"Spring Bean Post Processor","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

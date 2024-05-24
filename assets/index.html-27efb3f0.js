@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d9337b7c","path":"/spring-cloud/spring-cloud-ribbon/","title":"Spring Cloud Ribbon","lang":"zh-CN","frontmatter":{"title":"Spring Cloud Ribbon","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

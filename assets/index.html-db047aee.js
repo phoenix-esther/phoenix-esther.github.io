@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-03d20686","path":"/middleware/sharding-sphere/","title":"Sharding Sphere","lang":"zh-CN","frontmatter":{"title":"Sharding Sphere","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

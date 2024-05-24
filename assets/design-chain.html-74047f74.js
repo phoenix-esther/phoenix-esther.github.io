@@ -1,1 +1,0 @@
-import{_ as a,V as t,W as n,X as e,Y as s}from"./framework-5dde3bca.js";const c={},r=e("h1",{id:"责任链模式",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#责任链模式","aria-hidden":"true"},"#"),s(" 责任链模式")],-1),o=[r];function _(d,i){return t(),n("div",null,o)}const l=a(c,[["render",_],["__file","design-chain.html.vue"]]);export{l as default};

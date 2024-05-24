@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4b1227d2","path":"/middleware/xxl-job/","title":"Xxl Job","lang":"zh-CN","frontmatter":{"title":"Xxl Job","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
