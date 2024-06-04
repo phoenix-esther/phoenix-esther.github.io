@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o}from"./app-e53dd85b.js";const r={};function n(c,_){return t(),o("div")}const f=e(r,[["render",n],["__file","netty-junior-04.html.vue"]]);export{f as default};
